@@ -1,7 +1,7 @@
 <script setup>
     import {ref} from 'vue'
 
-    const msg = ref('我是A组件中的哈哈')
+    const msg = ref('我是A组件中的嘻嘻')
 
 </script>
 
