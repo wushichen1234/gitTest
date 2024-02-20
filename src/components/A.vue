@@ -1,13 +1,13 @@
 <script setup>
     import {ref} from 'vue'
 
-    const msg1 = ref('我是A组件中的哈哈')
+    const msg = ref('我是A组件中的哈哈')
 
 </script>
 
 <template>
     <div>
-        我是A组件 -- {{ msg1 }}
+        我是A组件 -- {{ msg }}
     </div>
 </template>
 
