@@ -2,7 +2,7 @@
     import {ref} from 'vue'
 
     const person = ref({
-        name: 'wdx1'
+        name: 'wdx'
     })
 
 </script>
