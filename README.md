@@ -38,7 +38,8 @@
 技术栈：vue3 + vite + vantUI组件库（app） + element-plus组件库（系统） + vue-router + pinia + axios + less + Echarts可视化库 + webpack
 项目负责：
           cmcc装维app：
-          （1）
+          （1）使用插件amfe-flexible和postcss-pxtorem实现页面的响应式改变，通过修改html根节点的font-size大小来控制当前页面的rem样式，从而实现页面的适应性和响应式布局，提升了用户体验和页面的可访问性。
+          （2）
 
 
 
